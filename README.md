@@ -1,5 +1,5 @@
-#Jacob H.
-#CS-300
+Jacob H.
+CS-300
 
 What problem were you solving in the projects for this course?
 The goal was to create a system that could store, manage, and display information about academic courses, including identifiers, titles, and any prerequisite relationships, for a university client.
